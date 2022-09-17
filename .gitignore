@@ -1,0 +1,13 @@
+clients.py
+company.py
+FINISHED/
+.venv/
+sign/
+.idea/
+__pycache__/
+.vscode/
+.DS_Store
+files/address.pdf
+files/invoice.xlsx
+files/receipt.pdf
+files/

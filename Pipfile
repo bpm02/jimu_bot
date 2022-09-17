@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+
+[packages]
+pypdf2 = "==1.26.0"
+reportlab = "~=3.5.23"
+openpyxl = "==2.5.11"
+flake8 = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
